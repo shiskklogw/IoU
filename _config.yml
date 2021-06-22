@@ -17,7 +17,7 @@ author:
 
 # URL settings
 url: "https://iou.center" #
-baseurl: "/IoU" # leave blank if not wishd
+baseurl: "https://iou.center" # leave blank if not wishd
 permalink: "https://iou.center"
 permalink: iou 
 
