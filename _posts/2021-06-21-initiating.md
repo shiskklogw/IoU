@@ -1,11 +1,10 @@
----
+;---
 layout: post
 title: Initiating the project at La Gare, Langon (French Brittany)
-description: Intersection of Universes : the project is launched
+description: Intersection of Universes : the project is launched.
 summary: Before the launch
 comments: false
 tags: iou
-minute: 1
 ---
 
 There are two of us: [Benjamin Efrati](https://benjaminefrati.com/) and [Shu Isaka](https://shuisaka.site/). At first, this project was about our global culture's own little [Shangri-La](https://www.youtube.com/watch?v=zG93lF_vU5Y) : China. Containing all that can be, this country would be a fantastic source of inspiration for french/japanese collaborative work about cyber-shamanism. Our project entitled us to ask ourselves a question: how to create relevant artwork in a country as important and undecypherable? This is how the project was thus initiated in 2019, by a series of brainstorms and the search for chinese art-in-residency applications. We found great support with [Arts Council Tokyo](https://www.artscouncil-tokyo.jp/en/), the japanese organism founding our project, and simultaneously were selected for an art residency program at [Dimensions Art Center](http://chongqingdac.org/article/page?id=8&locale=en_US) in Chongqing, China. 
