@@ -1,8 +1,5 @@
-# Gesko
+# Intersection of Universes
 
-Simple and minimal Jekyll blog. 
-Forked from [Asko](https://github.com/manuelmazzuola/asko).
-Inspired from [Klisé](https://github.com/piharpi/jekyll-klise)
 
 Both had some issues with Github Pages, so I decided to make it work by losing as few features as possible.
 Now easly deployable on Github Pages, with:
@@ -61,11 +58,14 @@ Then build again and you're ready!!
 
 ## Contributing
 
-Yeaaa feel free to open a pull request.
+Feel free to open a pull request.
 
-
-If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
+If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it.
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE.md).
+Adapted from Gesko Simple and minimal Jekyll blog. 
+Forked from [Asko](https://github.com/manuelmazzuola/asko).
+Inspired from [Klisé](https://github.com/piharpi/jekyll-klise)
+
