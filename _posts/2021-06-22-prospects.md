@@ -2,7 +2,7 @@
 layout: post
 title: Prospects
 description: Plan overview.
-summary: IoU: an outlook.
+summary: an outlook on IoU.
 tags: iou
 minute: 2
 ---
