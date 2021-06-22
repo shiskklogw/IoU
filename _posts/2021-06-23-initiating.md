@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Syntax highlight with Rouge in Jekyll
-description: Enable syntax highlighting in your site
-summary: Enable syntax highlighting in your site.
+title: Initiating the project at La Gare, Langon (French Brittany)
+description: Intersection of Universes : the project is launched
+summary: Before the launch
 comments: false
 tags: iou
 minute: 1
