@@ -1,4 +1,4 @@
-;---
+---
 layout: post
 title: Initiating the project at La Gare, Langon (French Brittany)
 description: Intersection of Universes : the project is launched.
