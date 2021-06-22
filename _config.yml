@@ -5,7 +5,6 @@ description: >-
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
 data-theme: default theme "dark" 
 
 author:
